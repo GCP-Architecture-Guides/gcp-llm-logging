@@ -1,0 +1,4 @@
+google-api-python-client  # Required for most Google Cloud client libraries
+google-cloud-storage      # Cloud Storage client library
+google-cloud-kms          # Cloud KMS client library
+google-cloud-dlp          # Cloud Data Loss Prevention client library
