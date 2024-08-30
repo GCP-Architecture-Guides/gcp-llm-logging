@@ -20,7 +20,7 @@ This project sets up a Cloud Run service to log and analyze LLM prompts using Go
    * Navigate to **Cloud Shell**. This provides a command-line interface directly within your browser that has authenticated access to your project and all the tools you need to run this project.
    * Clone this repository and navigate to the directory: 
      ```bash
-     git clone https://github.com/lanre-OG/gcp-llm-logging
+     git clone https://github.com/GCP-Architecture-Guides/gcp-llm-logging.git
      cd gcp-llm-logging
      ```
 
